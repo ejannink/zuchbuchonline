@@ -22,5 +22,6 @@ Als Benützer sind vorgesehen
     
 Dieses Projekt ist eine Weiterentwicklung von das [Zuchtbuch Online vom Kreisverband Emsland – Grafschaft Bentheim](https://kv-emsland-grafschaftbentheim.de/zuchtbuch/)
 Zusammen mit den Zuchtbuchmitgliedern wollen wir dies weiter ausbreiten, aber auch sind Mitentwickler sehr wilkommen.
+Die Alpha des neuen Systems dreht unter [RGZuchtbuch.de](https://rgzuchtbuch.de)
 
 Eelco Jannink, RGZV Nordhorn
